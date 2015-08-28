@@ -1,0 +1,7 @@
+1>------ Build started: Project: Smart DIU Tester, Configuration: Debug Win32 ------
+1>Compiling...
+1>stdafx.cpp
+1>.\stdafx.cpp : fatal error C1902: Program database manager mismatch; please check your installation
+1>Build log was saved at "file://c:\Users\OP\Documents\Visual Studio 2008\Projects\Smart DIU Tester\Smart DIU Tester\Debug\BuildLog.htm"
+1>Smart DIU Tester - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
